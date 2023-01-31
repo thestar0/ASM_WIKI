@@ -2797,3 +2797,6 @@ len     equ $ - msg
 ```
 Allocated 16 kb of memory!
 ```
+# 参考
+https://iowiki.com/assembly_programming/assembly_programming_index.html
+修正了一些翻译错误，以及个别错误
