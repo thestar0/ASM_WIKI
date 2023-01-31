@@ -181,9 +181,6 @@ cpu是人的大脑，负责控制全身和运算
 ![image.png](https://thestar0-1308426403.cos.ap-chengdu.myqcloud.com/img/20230131003553.png)
 
 x 是内存地址
-![image.png](https://thestar0-1308426403.cos.ap-chengdu.myqcloud.com/img/20230131003544.png)
-
-附上之前画的一幅图
 
 当处理器从存储器中获取数字数据以进行寄存时，它再次反转字节。 
 
